@@ -2,6 +2,8 @@
 
 
 int main() {
+    //variáveis:
+
     char estado1, estado2;
     char codigo1[4], codigo2[4];        
     char cidade1[30], cidade2[30];
@@ -68,4 +70,4 @@ int main() {
     printf("Numero de Pontos Turisticos: %d\n", pontosTuristicos2);
 
     return 0;
-}
+}    
